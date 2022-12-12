@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.8dbe7fdc.css",
+    "main.js": "/MyPortfolio/static/js/main.63c0e412.js",
+    "static/media/hero-bg.jpg": "/MyPortfolio/static/media/hero-bg.cf2364827d8b8a98642e.jpg",
+    "static/media/Bootstrap-logo.png": "/MyPortfolio/static/media/Bootstrap-logo.bd3fc72ffaaa85e3e2aa.png",
+    "static/media/TextUtils.jpg": "/MyPortfolio/static/media/TextUtils.dcdc0260b8aa776aaa76.jpg",
+    "static/media/win-11-ui.jpg": "/MyPortfolio/static/media/win-11-ui.bdf9cd663465080bbe1d.jpg",
+    "static/media/react1.jpg": "/MyPortfolio/static/media/react1.d63ca3791694cd8f6f49.jpg",
+    "static/media/tictactoe.jpg": "/MyPortfolio/static/media/tictactoe.8d008918c17d4d2558e5.jpg",
+    "static/media/JavaScript-logo.png": "/MyPortfolio/static/media/JavaScript-logo.166865dacb77d214f485.png",
+    "static/media/Python-logo.png": "/MyPortfolio/static/media/Python-logo.be3958a06d71f08fc47a.png",
+    "static/media/calculator.jpg": "/MyPortfolio/static/media/calculator.35f92f040d23ad41b552.jpg",
+    "static/media/React Js-logo.png": "/MyPortfolio/static/media/React Js-logo.f3e576ba08e6be927148.png",
+    "static/media/react2.webp": "/MyPortfolio/static/media/react2.8aa659a4278a7132e6f4.webp",
+    "static/media/number-guessing.jpg": "/MyPortfolio/static/media/number-guessing.ae6c7c93c680ce4e07a7.jpg",
+    "index.html": "/MyPortfolio/index.html",
+    "main.8dbe7fdc.css.map": "/MyPortfolio/static/css/main.8dbe7fdc.css.map",
+    "main.63c0e412.js.map": "/MyPortfolio/static/js/main.63c0e412.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dbe7fdc.css",
+    "static/js/main.63c0e412.js"
+  ]
+}
