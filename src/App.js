@@ -9,7 +9,7 @@ import Skills from './routes/Skills';
 function App() {
   return (
     <>
-    <BrowserRouter>
+    <BrowserRouter basename='/Myportfolio'>
       <Routes>
         <Route exact path='/' element={<Home/>}></Route>
         <Route path='/project' element={<Projects/>}></Route>
