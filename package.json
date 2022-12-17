@@ -1,6 +1,6 @@
 {
-  "name": "textutils",
   "homepage": "https://Anas7003.github.io/MyPortfolio",
+  "name": "textutils",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
