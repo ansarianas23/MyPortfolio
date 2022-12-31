@@ -37,7 +37,7 @@
 }
 
 .project-details p{
-    padding-bottom: 1rem;
+    padding-bottom: 1.5rem;
     font-size: 1.1rem;
     text-align: justify;
 }
@@ -45,7 +45,6 @@
 .projectbtns{
     display: flex;
     justify-content: space-between;
-    padding: 0.5rem 0;
 }
 
 .projectbtns .btn{

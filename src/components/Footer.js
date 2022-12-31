@@ -1,6 +1,6 @@
 import React from 'react'
 import "../components/FooterStyles.css"
-import {FaHome, FaPhone, FaMailBulk, FaLinkedin, FaGithub} from "react-icons/fa"
+import {FaHome, FaPhone, FaMailBulk, FaLinkedin, FaGithub, FaInstagram} from "react-icons/fa"
 
 const Footer = () => {
   return (
@@ -38,8 +38,12 @@ const Footer = () => {
                 <FaLinkedin size={30} style={{color: "#fff", marginRight:"1rem"}}/>
               </a>
 
-              <a href='https://github.com/Anas7003' rel="noreferrer" target="_blank">
+              <a href='https://github.com/ansarianas23' rel="noreferrer" target="_blank">
                 <FaGithub size={30} style={{color: "#fff", marginRight:"1rem"}}/>
+              </a>
+
+              <a href='https://www.instagram.com/_anas.dev_/' rel="noreferrer" target="_blank">
+                <FaInstagram size={30} style={{color: "#fff", marginRight:"1rem"}}/>
               </a>
             </div>
         </div>

@@ -3,6 +3,7 @@ import cssLogo from "../Logos/CSS-logo.png"
 import jsLogo from "../Logos/JavaScript-logo.png"
 import bootstrapLogo from "../Logos/Bootstrap-logo.png"
 import reactlogo from "../Logos/React Js-logo.png"
+import TailwindLogo from "../Logos/Tailwind_CSS_Logo.png"
 import pythonLogo from "../Logos/Python-logo.png"
 
 
@@ -30,6 +31,11 @@ const SkillCardData = [
     {
         imgsrc:reactlogo,
         title:"React Js",
+        level:"Intermediate",
+    },
+    {
+        imgsrc:TailwindLogo,
+        title:"Tailwind CSS",
         level:"Intermediate",
     },
     {
